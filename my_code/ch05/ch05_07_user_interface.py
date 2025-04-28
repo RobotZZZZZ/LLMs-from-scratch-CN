@@ -2,6 +2,7 @@ import tiktoken
 import torch
 import chainlit
 
+# 运行命令: chainlit run ch05_07_user_interface.py
 # 使用sys.path添加上级目录
 import sys
 import os
